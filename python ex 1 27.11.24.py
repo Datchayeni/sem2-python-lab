@@ -1,4 +1,4 @@
-"""print("Enter 'c' to convert from Celsius to Farenheit")
+print("Enter 'c' to convert from Celsius to Farenheit")
 print("Enter 'f' to convert from farenheit to Celsius")
 choice=input("Enter your choice")
 if choice=='c':
@@ -10,7 +10,7 @@ elif choice=='f':
     celsius=(farenhite+32)*5/9
     print('%.2f Farenheit is:%0.2f Celsius'%(farenheit,celsius))
 else:
-    print("invalid Input")"""
+    print("invalid Input")
 
 
 
